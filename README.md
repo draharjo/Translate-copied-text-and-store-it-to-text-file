@@ -1,4 +1,5 @@
-Program to translate a copied text & store the text to txt file
+Purpose: program to translate a copied text & store the text to txt file
+
 Resources to look out:
 1. https://pyperclip.readthedocs.io/en/latest/
 2. https://pypi.org/project/googletrans/
